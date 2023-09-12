@@ -1,0 +1,11 @@
+C:\Users\29379783\source\repos\PictureViewerЛатин\PictureViewerЛатин\bin\Release\PictureViewerЛатин.exe.config
+C:\Users\29379783\source\repos\PictureViewerЛатин\PictureViewerЛатин\bin\Release\PictureViewerЛатин.exe
+C:\Users\29379783\source\repos\PictureViewerЛатин\PictureViewerЛатин\bin\Release\PictureViewerЛатин.pdb
+C:\Users\29379783\source\repos\PictureViewerЛатин\PictureViewerЛатин\obj\Release\PictureViewerЛатин.csprojAssemblyReference.cache
+C:\Users\29379783\source\repos\PictureViewerЛатин\PictureViewerЛатин\obj\Release\PictureViewerЛатин.AboutBox1.resources
+C:\Users\29379783\source\repos\PictureViewerЛатин\PictureViewerЛатин\obj\Release\PictureViewerЛатин.Form1.resources
+C:\Users\29379783\source\repos\PictureViewerЛатин\PictureViewerЛатин\obj\Release\PictureViewerЛатин.Properties.Resources.resources
+C:\Users\29379783\source\repos\PictureViewerЛатин\PictureViewerЛатин\obj\Release\PictureViewerЛатин.csproj.GenerateResource.cache
+C:\Users\29379783\source\repos\PictureViewerЛатин\PictureViewerЛатин\obj\Release\PictureViewerЛатин.csproj.CoreCompileInputs.cache
+C:\Users\29379783\source\repos\PictureViewerЛатин\PictureViewerЛатин\obj\Release\PictureViewerЛатин.exe
+C:\Users\29379783\source\repos\PictureViewerЛатин\PictureViewerЛатин\obj\Release\PictureViewerЛатин.pdb
